@@ -6,7 +6,7 @@ title: 유재권
 superuser: true
 
 # Role/position
-role: 'University Student'
+role: 'Computer Engineering'
 
 # Status emoji
 status:
