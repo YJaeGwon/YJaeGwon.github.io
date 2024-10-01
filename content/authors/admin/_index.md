@@ -48,9 +48,6 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/YJaeGwon/YJaeGwon.github.io
-  - icon: instagram
-    icon_pack: fab
-    link: https://instagram.com/geocushen
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab
