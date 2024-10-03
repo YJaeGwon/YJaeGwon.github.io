@@ -6,13 +6,18 @@
 main:
   - name: Home
     url: /
-    weight: 10
+    weight: 100
   - name: Resumé
     url: about/
-    weight: 20
-  - name: Map
-    url: map/
-    weight: 30
+    weight: 200
   - name: Contact
     url: contact/
-    weight: 40
+    weight: 300
+  - name: Map
+    parent: Contact
+    url: map/
+    weight: 310
+  - name: Phone
+    parent: Contact
+    url: phone/
+    weight: 320
