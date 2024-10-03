@@ -28,7 +28,7 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Machine Learning
+    - name: Github Site
       tag: ML
     - name: Jeonbuk National University Site
       tag: CV

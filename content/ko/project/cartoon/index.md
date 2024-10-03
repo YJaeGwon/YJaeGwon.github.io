@@ -1,6 +1,6 @@
 ---
 title: Jeonbuk National University
-summary: Computer Engineering Site
+summary: Computer Engineering
 tags:
   - CV
 date: 2022-01-01
