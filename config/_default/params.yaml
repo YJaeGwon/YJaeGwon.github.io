@@ -38,9 +38,14 @@ header:
     align: r
     fixed_to_top: true
     show_logo: true
+    button:
+      enable: true
+      text: "Get Started"
+      url: "https://yjaegwon.github.io/about/"
     show_language: true
     show_day_night: true
     show_search: true
+    show_translations: true
     highlight_active_link: false
 
 footer:
