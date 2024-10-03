@@ -30,7 +30,7 @@ marketing:
     baidu: ''
 
 # Site header
-color: green
+
 header:
   navbar:
     enable: true
@@ -50,7 +50,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Me. This work is licensed under {license}\nContact: 010-4051-4171'
     license:
       enable: true
       allow_derivatives: false
