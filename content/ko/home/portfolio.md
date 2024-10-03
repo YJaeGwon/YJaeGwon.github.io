@@ -32,7 +32,7 @@ content:
       tag: ML
     - name: Jeonbuk National University Site
       tag: CV
-    - name: NLP
+    - name: Dice Game
       tag: NLP
 
 design:
