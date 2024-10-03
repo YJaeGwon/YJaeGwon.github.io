@@ -21,3 +21,6 @@ main:
     parent: Contact
     url: phone/
     weight: 320
+  - name: Information
+    url: information/
+    weight: 400
