@@ -10,7 +10,6 @@ appearance:
   theme_night: custom
   font: minimal
   font_size: L
-  color: green
 
 # SEO
 
@@ -31,7 +30,7 @@ marketing:
     baidu: ''
 
 # Site header
-
+color: green
 header:
   navbar:
     enable: true
