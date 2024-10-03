@@ -34,6 +34,8 @@ content:
       tag: CV
     - name: Dice Game
       tag: NLP
+    - name: Ruby's Adventure
+      tag: Ruby
 
 design:
   columns: '1'
