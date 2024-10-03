@@ -1,8 +1,8 @@
 ---
-title: Cartoon Face Generator
-summary: Write about your project here...
+title: Jeonbuk National University
+summary: Computer Engineering Site
 tags:
   - CV
 date: 2022-01-01
-external_link: http://github.com
+external_link: https://csai.jbnu.ac.kr/csai/index.do
 ---

@@ -30,7 +30,7 @@ content:
       tag: '*'
     - name: Machine Learning
       tag: ML
-    - name: Computer Vision
+    - name: Jeonbuk National University Site
       tag: CV
     - name: NLP
       tag: NLP
