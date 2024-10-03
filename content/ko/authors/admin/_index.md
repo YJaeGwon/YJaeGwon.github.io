@@ -48,8 +48,8 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/YJaeGwon/YJaeGwon.github.io
-  - icon: google-scholar
-    icon_pack: fab
+  - icon: cv
+    icon_pack: ai
     link: files/instruction.pdf
 # Uncomment below for Github link
 #- icon: github
