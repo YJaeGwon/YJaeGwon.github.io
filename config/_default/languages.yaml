@@ -21,5 +21,5 @@ ko:
 #        url: '#about'
 #        weight: 1
 en:
-  languageCoded: en
+  languageCode: en
   contentDir: content/en
