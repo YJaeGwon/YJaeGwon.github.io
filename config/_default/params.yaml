@@ -10,6 +10,7 @@ appearance:
   theme_night: custom
   font: minimal
   font_size: L
+  color: green
 
 # SEO
 
@@ -50,7 +51,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}\nContact: 010-4051-4171'
+    notice: '© {year} Me. This work is licensed under {license}   Contact: 010-4051-4171'
     license:
       enable: true
       allow_derivatives: false
