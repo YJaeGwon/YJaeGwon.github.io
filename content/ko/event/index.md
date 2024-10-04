@@ -10,4 +10,4 @@ banner:
   image: 'PDF.jpg'
 ---
 
-[Download PDF](instruction.pdf)
+<a href="#" class="btn">Download PDF<instruction.pdf>
