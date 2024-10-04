@@ -2,6 +2,13 @@
 title:
 date: 2024-03-25
 type: landing
+# Listing view
+view: citation
+
+# Optional banner image (relative to `assets/media/` folder).
+banner:
+  caption: ''
+  image: 'information.jpg'
 
 sections:
 
