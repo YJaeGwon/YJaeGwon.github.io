@@ -50,7 +50,7 @@ social:
     link: https://github.com/YJaeGwon/YJaeGwon.github.io
   - icon: cv
     icon_pack: ai
-    link: files/instruction.pdf
+    link: googleb237f8d58a9f37fd.html
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab
@@ -63,5 +63,3 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: ""
 ---
-
-<a href="#" class="btn">Download PDF<googleb237f8d58a9f37fd.html>
