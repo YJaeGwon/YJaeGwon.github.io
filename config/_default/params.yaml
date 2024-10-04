@@ -112,3 +112,8 @@ extensions:
     local_backend: false
   academicons:
     enable: false
+
+params:
+  ogImage: "featured1.jpg"
+  ogTitle: "전북대 유재권의 개인 홈페이지"
+  ogDescription: "전북대 유재권의 프로젝트와 작업을 소개하는 페이지입니다."
