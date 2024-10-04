@@ -2,4 +2,4 @@
 title:
 ---
 
-[Download PDF](files/instruction.pdf)
+[Download PDF](instruction.pdf)
