@@ -64,4 +64,3 @@ social:
 #email: ""
 ---
 
-[Download PDF](files/instruction.pdf)
