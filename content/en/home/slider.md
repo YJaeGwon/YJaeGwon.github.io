@@ -57,7 +57,7 @@ content:
         text: github
         url: https://github.com/YJaeGwon/YJaeGwon.github.io
     - title: Dice game
-      content: Unity 활용
+      content: with Unity
       align: center
       background:
         position: center
