@@ -63,7 +63,7 @@ content:
         position: center
         color: '#333'
         brightness: 0.5
-        media: featured3.jpg
+        media: featured2.jpg
         fit: cover
       link:
         icon: github
