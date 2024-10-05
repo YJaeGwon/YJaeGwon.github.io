@@ -16,7 +16,8 @@ design:
 content:
   slides:
     - title: 👋 제 블로그에 오신걸 환영합니다
-      content: JaeGwon's Place
+      content: |
+        <div class="justify-text">JaeGwon's Place</div>
       align: center
       background:
         position: right
