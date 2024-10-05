@@ -19,6 +19,13 @@ sections:
           icon_pack: fab
           name: DM Me
           link: 'https://twitter.com/Twitter'
+      address:
+        street: 전북대학교 공과대학 7호관
+        city: 전주시
+        region: 전라북도
+        postcode: ''
+        country: 대한민국
+        country_code: KO
       autolink: true
     design:
       columns: '3'
