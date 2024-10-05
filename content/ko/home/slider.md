@@ -58,7 +58,7 @@ content:
         url: https://github.com/YJaeGwon/YJaeGwon.github.io
     - title: Dice game
       content: 간단한 토이 프로젝트
-      align: right
+      align: center
       background:
         position: center
         color: '#333'
