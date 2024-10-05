@@ -21,7 +21,7 @@ sections:
           link: 'https://twitter.com/Twitter'
       address:
         street: 전북대학교 공과대학 7호관
-        city: ''
+        city: 전주시
         region: ''
         postcode: ''
         country: ''
