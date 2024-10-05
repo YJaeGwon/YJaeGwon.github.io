@@ -22,7 +22,7 @@ sections:
       address:
         street: 전북대학교 공과대학 7호관
         city: 전주시
-        region: ''
+        region: 전라북도
         postcode: ''
         country: ''
         country_code: ''
