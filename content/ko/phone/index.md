@@ -24,8 +24,8 @@ sections:
         city: 전주시
         region: 전라북도
         postcode: ''
-        country: ''
-        country_code: ''
+        country: 대한민국
+        country_code: KO
       autolink: true
     design:
       columns: '3'
