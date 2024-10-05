@@ -16,7 +16,7 @@ sections:
       slides:
 
       - title: <span style="font-size:90%">Dice Game</span>
-        content: <span style="font-size:90%">주사위를 이용한 게임<span style="font-size:90%"></span>
+        content: <span style="font-size:90%">Game with Dice<span style="font-size:90%"></span>
         align: center
         background:
           image:
