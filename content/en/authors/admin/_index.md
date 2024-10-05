@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 유재권
+title: 유재권(Yoo JaeGwon)
 
 # Is this the primary user of the site?
 superuser: true
