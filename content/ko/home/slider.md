@@ -44,7 +44,7 @@ content:
         fit: cover
     - title: Hugo project
       content: visit my github
-      align: right
+      align: center
       background:
         position: center
         color: '#333'
