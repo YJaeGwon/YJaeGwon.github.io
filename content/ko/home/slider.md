@@ -56,5 +56,18 @@ content:
         icon_pack: fab
         text: github
         url: https://github.com/YJaeGwon/YJaeGwon.github.io
-    
+    - title: Dice game
+      content: 간단한 토이 프로젝트
+      align: right
+      background:
+        position: center
+        color: '#333'
+        brightness: 0.5
+        media: featured3.jpg
+        fit: cover
+      link:
+        icon: github
+        icon_pack: fab
+        text: github
+        url: https://github.com/JHuiJung/DiceHero
 ---
