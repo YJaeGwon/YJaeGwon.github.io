@@ -26,7 +26,7 @@ content:
         fit: cover
     - title: University
       content: 전북대학교
-      align: left
+      align: center
       background:
         position: center
         color: '#555'
