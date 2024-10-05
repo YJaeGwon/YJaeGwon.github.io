@@ -26,7 +26,8 @@ content:
         media: welcome.jpg
         fit: cover
     - title: University
-      content: 전북대학교
+      content: |
+        <div class="justify-text">전북대학교</div>
       align: left
       background:
         position: center
