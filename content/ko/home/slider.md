@@ -33,8 +33,8 @@ content:
         brightness: 0.7
         media: featured1.jpg
         fit: cover
-    - title: World-Class Semiconductor Lab
-      content: 'Just opened last month!'
+    - title: Hugo project
+      content: visit my github
       align: right
       background:
         position: center
@@ -43,8 +43,8 @@ content:
         media: featured3.jpg
         fit: cover
       link:
-        icon: graduation-cap
-        icon_pack: fas
-        text: Join Us
-        url: about/
+        icon: github
+        icon_pack: fab
+        text: github
+        url: https://github.com/YJaeGwon/YJaeGwon.github.io
 ---
