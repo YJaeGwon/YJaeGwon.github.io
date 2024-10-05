@@ -25,7 +25,7 @@ content:
         media: welcome.jpg
         fit: cover
     - title: University
-      content: 전북대학교
+      content: Jeonbuk National University
       align: center
       background:
         position: center
@@ -34,7 +34,7 @@ content:
         media: featured1.jpg
         fit: cover
     - title: toy
-      content: 간단한 토이 프로젝트
+      content: Simple toy project
       align: center
       background:
         position: center
