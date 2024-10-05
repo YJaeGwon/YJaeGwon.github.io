@@ -18,7 +18,7 @@ status:
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 전북대학교 컴퓨터공학부에 재학중입니다.
+bio: Jeonbuk University Computer Engineering.
 
 #interests:
 #- Artificial Intelligence
