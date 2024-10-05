@@ -72,7 +72,7 @@ content:
         url: https://github.com/JHuiJung/DiceHero
     - title: Development
       content: C++,JAVA
-      align: right
+      align: center
       background:
         position: center
         color: '#333'
