@@ -11,3 +11,4 @@ banner:
 ---
 
 <a href="#" class="btn">Download PDF<instruction.pdf>
+{{ partial "card1.html" . }}

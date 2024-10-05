@@ -132,3 +132,26 @@ ul.network-icon .big-icon {
 .btn:hover {
   background-color: #45a049;
 }
+
+.card-style-1 {
+  border: 1px solid #ddd;
+  padding: 20px;
+  background-color: #f9f9f9;
+}
+
+.card-style-1 .card-img {
+  max-width: 100%;
+  height: auto;
+}
+
+.card-style-2 {
+  border: 2px solid #333;
+  padding: 15px;
+  background-color: #fff;
+}
+
+.card-style-2 .card-header {
+  background-color: #333;
+  color: #fff;
+  padding: 10px;
+}
