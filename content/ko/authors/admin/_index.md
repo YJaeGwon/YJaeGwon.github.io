@@ -48,9 +48,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/YJaeGwon/YJaeGwon.github.io
-  - icon: cv
-    icon_pack: ai
-    link: googleb237f8d58a9f37fd.html
+  - icon: discord
+    icon_pack: fab
+    link: https://discord.com/
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab
