@@ -70,4 +70,13 @@ content:
         icon_pack: fab
         text: github
         url: https://github.com/JHuiJung/DiceHero
+    - title: Development
+      content: C++,JAVA
+      align: right
+      background:
+        position: center
+        color: '#333'
+        brightness: 0.5
+        media: development.jpg
+        fit: cover
 ---
