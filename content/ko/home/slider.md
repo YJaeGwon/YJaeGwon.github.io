@@ -15,14 +15,14 @@ design:
 
 content:
   slides:
-    - title: 👋 Welcome to the group
-      content: Take a look at what we're working on...
+    - title: 👋 제 블로그에 오신걸 환영합니다
+      content: JaeGwon's Place
       align: center
       background:
         position: right
         color: '#666'
         brightness: 0.7
-        media: featured1.jpg
+        media: welcome.jpg
         fit: cover
     - title: Lunch & Learn ☕️
       content: 'Share your knowledge with the group and explore exciting new topics together!'
