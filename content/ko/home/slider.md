@@ -33,6 +33,15 @@ content:
         brightness: 0.7
         media: featured1.jpg
         fit: cover
+    - title: toy
+      content: 간단한 토이 프로젝트
+      align: right
+      background:
+        position: center
+        color: '#333'
+        brightness: 0.5
+        media: toy.jpg
+        fit: cover
     - title: Hugo project
       content: visit my github
       align: right
@@ -47,4 +56,5 @@ content:
         icon_pack: fab
         text: github
         url: https://github.com/YJaeGwon/YJaeGwon.github.io
+    
 ---
