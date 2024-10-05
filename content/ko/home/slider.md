@@ -16,8 +16,7 @@ design:
 content:
   slides:
     - title: 👋 제 블로그에 오신걸 환영합니다
-      content: |
-        <div class="justify-text">JaeGwon's Place</div>
+      content: JaeGwon's Place
       align: center
       background:
         position: right
@@ -26,8 +25,7 @@ content:
         media: welcome.jpg
         fit: cover
     - title: University
-      content: |
-        <div class="justify-text">전북대학교</div>
+      content: 전북대학교
       align: left
       background:
         position: center
