@@ -38,7 +38,7 @@ sections:
           color: '#000'
 
       - title: <span style="font-size:90%">Ruby's Adventure</span>
-        content: <span style="font-size:90%">Unity Learn 프로젝트</span>
+        content: <span style="font-size:90%">Unity Learn Project</span>
         align: center
         background:
           image:
