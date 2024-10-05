@@ -10,6 +10,15 @@ sections:
       text: 
       email: 202011690@jbnu.ac.kr
       phone: 010-4051-4171
+      contact_links:
+        - icon: discord
+          icon_pack: fab
+          name: DM Me
+          link: 'https://discord.com/'
+        - icon: twitter
+          icon_pack: fab
+          name: DM Me
+          link: 'https://twitter.com/Twitter'
       autolink: true
     design:
       columns: '3'
