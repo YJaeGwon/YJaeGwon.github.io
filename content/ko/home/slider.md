@@ -22,7 +22,7 @@ content:
         position: right
         color: '#666'
         brightness: 0.7
-        media: coders.jpg
+        media: featured1.jpg
         fit: cover
     - title: Lunch & Learn ☕️
       content: 'Share your knowledge with the group and explore exciting new topics together!'
@@ -31,7 +31,7 @@ content:
         position: center
         color: '#555'
         brightness: 0.7
-        media: contact.jpg
+        media: featured2.jpg
         fit: cover
     - title: World-Class Semiconductor Lab
       content: 'Just opened last month!'
@@ -40,11 +40,11 @@ content:
         position: center
         color: '#333'
         brightness: 0.5
-        media: welcome.jpg
+        media: featured3.jpg
         fit: cover
       link:
         icon: graduation-cap
         icon_pack: fas
         text: Join Us
-        url: ../contact/
+        url: about/
 ---
