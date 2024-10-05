@@ -27,7 +27,7 @@ sections:
           color: '#000'
 
       - title: <span style="font-size:90%">Hugo Project</span>
-        content: <span style="font-size:90%">Hugo를 이용한 정적 사이트</span>
+        content: <span style="font-size:90%">Site with Hugo</span>
         align: center
         background:
           image:
