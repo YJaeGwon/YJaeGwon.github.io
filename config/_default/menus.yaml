@@ -24,6 +24,6 @@ main:
   - name: Information
     url: information/
     weight: 400
-  - name: Event
+  - name: PDF
     url: event/
     weight: 500
